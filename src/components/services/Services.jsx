@@ -2,7 +2,7 @@ import React from "react";
 import img from "../../assets/images/cheese.png";
 import img2 from "../../assets/images/image-2.png";
 import img3 from "../../assets/images/image-3.png";
-import StarRatings from 'react-star-ratings'
+
 
 const serviceData = [
   {
